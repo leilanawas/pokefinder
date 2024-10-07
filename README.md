@@ -1,4 +1,4 @@
-# React + Vite
+# Pokemon Finder
 
 This is a Pokémon finder app locally!
 
